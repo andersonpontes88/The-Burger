@@ -5,5 +5,13 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <p><b>Projeto feito com intuito de aprender mais JS, o uso do (ForEach, Map, Reduce e Filter);</b></p>
-<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/01%20theBur.png?raw=true"/><br/> <br/>
+<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/01%20theBur.png?raw=true"/><br/>
+
 <p><b>O ForEach com função de mostar na tela os cards-burges</b></p>
+<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/02%20theBur.png?raw=true"/><br/>
+
+<p><b>O (Map) para da um desconto em todos o valores dos burges, e o (Reduce) para fazer a soma de todos os valores.</b></p>
+<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/03%20theBur.png?raw=true"><br/>
+
+<p><b>Finalizando com o (Filter) para filtrar só os burger vegano.</b></p>
+<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/04%20theBur.png?raw=true">
