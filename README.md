@@ -4,4 +4,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<p>Projeto feito com intuito de aprender mais JS, o uso do (ForEach, Map, Reduce e Filter);</p>
+<p><b>Projeto feito com intuito de aprender mais JS, o uso do (ForEach, Map, Reduce e Filter);</b></p>
+<img src="https://github.com/andersonpontes88/The-Burger/blob/main/assets/01%20theBur.png?raw=true"/><br/> <br/>
+<p><b>O ForEach com função de mostar na tela os cards-burges</b></p>
